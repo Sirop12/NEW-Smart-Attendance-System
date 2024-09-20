@@ -1,0 +1,8 @@
+opencv-python
+pygame
+sqlite3
+ttkthemes
+ttkbootstrap
+pillow
+face_recognition
+concurrent.futures
